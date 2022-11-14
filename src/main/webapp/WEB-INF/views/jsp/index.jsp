@@ -40,8 +40,10 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Bengaluru,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
+			<h1>this is jenkins docker automated deploy using Git Hub Weeb Hooks.</h1>
+			<h2>Welcome To Mithun Technologies.</h2>
+			<h2>Assignment Completed Successfully...</h2>
+			<h3>this is container deployed in deployment server which was built in jenkins server</h3>
 		</div>	
 	</div>
 
