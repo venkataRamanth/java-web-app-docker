@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h1>Jenkins docker automation deploy using Git Hub Weeb Hooks.</h1>
+			<h1>Jenkins docker automation deployed using Git webhook .</h1>
 			<h2>Welcome To Mithun Technologies.</h2>
 			<h2>.....Assignment Completed Successfully....</h2>
 			<h5>Project deployed sucessfully in Deployment server which was built in jenkins server</h5>
